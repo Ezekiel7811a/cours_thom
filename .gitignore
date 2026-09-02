@@ -1,0 +1,14 @@
+# Corriges et documents prof : jamais publies sur le depot de l'eleve
+*_corrige.py
+*_corrigé.py
+POUR_LE_PROF.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Divers
+.DS_Store
+Thumbs.db
