@@ -19,5 +19,23 @@ python blockblast/blockblast.py
 python blockblast/tests_blockblast.py
 ```
 
-Aucune installation nécessaire : le jeu utilise `tkinter`, qui est livré avec
-Python.
+### [demineur](demineur/) — code à trous
+
+Un Démineur en Python auquel il manque des morceaux dans 10 fonctions, de plus
+en plus gros : d'abord des expressions, puis des lignes, puis des fonctions
+entières. Les tests indiquent l'étape suivante.
+
+Commence par lire [demineur/FICHE_ELEVE.md](demineur/FICHE_ELEVE.md).
+
+```bash
+python demineur/tests_demineur.py
+```
+
+```bash
+python demineur/demineur.py
+```
+
+---
+
+Aucune installation nécessaire : les jeux utilisent `tkinter`, qui est livré
+avec Python.
